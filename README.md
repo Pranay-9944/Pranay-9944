@@ -19,8 +19,6 @@ Email Me 👉 ✉️ **wanjaripranay9@gmail.com** For Collaboration/Project or A
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranay-9944&theme=solarized-dark&hide_border=true&layout=compact&cache_seconds=86400)
 
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 # "Until you face  your own mind, you'll keep blaming the world"
 
