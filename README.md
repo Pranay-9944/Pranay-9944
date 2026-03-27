@@ -19,9 +19,7 @@ Email Me 👉 ✉️ **wanjaripranay9@gmail.com** For Collaboration/Project or A
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranay-9944&theme=solarized-dark&hide_border=true&layout=compact&cache_seconds=86400)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Pranay-9944&limit=5&theme=dark&combine_all_yearly_contributions=true)
