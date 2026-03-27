@@ -12,9 +12,12 @@ Email Me 👉 ✉️ **wanjaripranay9@gmail.com** For Collaboration/Project or A
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Pranay-9944&theme=solarized-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Pranay-9944&theme=solarized-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranay-9944&theme=solarized-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=Pranay-9944&theme=solarized-dark&hide_border=true&count_private=true&cache_seconds=86400)
+
+![](https://streak-stats.demolab.com/?user=Pranay-9944&theme=solarized-dark&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranay-9944&theme=solarized-dark&hide_border=true&layout=compact&cache_seconds=86400)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Pranay-9944&limit=5&theme=dark&combine_all_yearly_contributions=true)
