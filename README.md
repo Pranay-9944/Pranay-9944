@@ -24,4 +24,5 @@ Email Me 👉 ✉️ **wanjaripranay9@gmail.com** For Collaboration/Project or A
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+"Until you face  your own mind,
+you'll keep blaming the world"
