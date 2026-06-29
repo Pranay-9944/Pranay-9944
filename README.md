@@ -21,6 +21,16 @@ Email Me 👉 ✉️ **wanjaripranay9@gmail.com** For Collaboration/Project. �
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranay-9944&layout=compact&theme=tokyonight&hide_border=true&v=2" />
 </p>
 
+
+
+
+# 📈 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranay-9944&theme=tokyo-night&hide_border=true" />
+</p>
+
+
 # "Until you face  your own mind, you'll keep blaming the world"
 
 <!--STARTS_HERE_QUOTE_README-->
