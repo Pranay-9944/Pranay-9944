@@ -13,13 +13,8 @@ Email Me 👉 ✉️ **wanjaripranay9@gmail.com** For Collaboration/Project. �
 </div>
 # 📊 GitHub Analytics
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Pranay-9944&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranay-9944&theme=tokyonight&hide_border=true" />
-</p>
+<img height="900" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranay-9944&theme=tokyonight&hide_border=true" /></p>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranay-9944&layout=compact&theme=tokyonight&hide_border=true&v=2" />
-</p>
 
 
 
