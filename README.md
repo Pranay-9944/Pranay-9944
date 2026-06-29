@@ -11,16 +11,18 @@ Email Me 👉 ✉️ **wanjaripranay9@gmail.com** For Collaboration/Project. �
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+# 📊 GitHub Analytics
 
-# 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Pranay-9944&theme=solarized-dark&hide_border=true&count_private=true&cache_seconds=86400)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ParthChittalwar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ParthChittalwar&theme=tokyonight&hide_border=true" />
+</p>
 
-![](https://streak-stats.demolab.com/?user=Pranay-9944&theme=solarized-dark&hide_border=true)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthChittalwar&layout=compact&theme=tokyonight&hide_border=true&v=2" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranay-9944&theme=solarized-dark&hide_border=true&layout=compact&cache_seconds=86400)
-
-![Hacker](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 # "Until you face  your own mind, you'll keep blaming the world"
 
 <!--STARTS_HERE_QUOTE_README-->
