@@ -26,7 +26,6 @@ Email Me 👉 ✉️ **wanjaripranay9@gmail.com** For Collaboration/Project. �
 </p>
 
 
-# "Until you face  your own mind, you'll keep blaming the world"
 
 <!--STARTS_HERE_QUOTE_README-->
 <!--ENDS_HERE_QUOTE_README-->
